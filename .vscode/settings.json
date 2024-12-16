@@ -1,0 +1,14 @@
+{
+    "eslint.format.enable": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "trpc"
+    ],
+    "vs-code-prettier-eslint.prettierLast": true
+}
