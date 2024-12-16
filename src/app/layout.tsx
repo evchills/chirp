@@ -12,7 +12,7 @@ import {
   SignedOut,
   UserButton,
 } from "@clerk/nextjs";
-import "./globals.css";
+import "../styles/globals.css";
 
 export const metadata: Metadata = {
   title: "Create T3 App",
